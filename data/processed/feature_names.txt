@@ -1,0 +1,7 @@
+amount0
+amount1
+sqrtPriceX96
+liquidity
+tick
+gasPrice
+gasUsed
